@@ -1,0 +1,22 @@
+{
+  "name": "serverless",
+  "version": "1.0.0",
+  "description": "Serverless Function Group in Azure",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DannyLeiton/azure-serverless.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DannyLeiton/azure-serverless/issues"
+  },
+  "homepage": "https://github.com/DannyLeiton/azure-serverless#readme",
+  "dependencies": {
+    "mongodb": "^3.1.9"
+  }
+}
